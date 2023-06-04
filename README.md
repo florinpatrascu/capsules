@@ -1,2 +1,2 @@
 # capsules
-smol' units of .. works (TBA)
+smol' units of .. work (TBA)
